@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @CanadianBias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-CanadianBias/CanadianBias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- @CanadianBias
+- Junior in Computer Science at Emmaus Bible College
+- Experience with
+-   Python
+-   Bash
+-   JS
+-   HTML
+-   CSS
+-   Visual Basic
+- Looking to branch out into
+-   Rust
+-   C++
+-   C#
