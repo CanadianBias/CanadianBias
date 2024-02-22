@@ -7,6 +7,7 @@ Experience with
 -   HTML
 -   CSS
 -   Visual Basic
+
 Looking to branch out into
 -   Rust
 -   C++
