@@ -3,7 +3,7 @@
 ### Class of 2025
 ### https://www.linkedin.com/in/elijah-dromarsky-aa068418a/
 
-** Experience with: **
+**Experience with:**
 - HTML/CSS/JS
 - Python and Bash Scripting
 - Python and C# O-O
@@ -11,6 +11,6 @@
 - VisualBasic
 - Processing Python
 
-** Looking to branch into **
+**Looking to branch into**
 - C++
 - Rust
