@@ -5,9 +5,10 @@
 
 **Experience with:**
 - HTML/CSS/JS
+- PHP (Symfony)
 - Python and Bash Scripting
 - Python and C# O-O
-- SQL
+- SQL, MSSQL, MySQL, MariaDB
 - VisualBasic
 - Processing Python
 
